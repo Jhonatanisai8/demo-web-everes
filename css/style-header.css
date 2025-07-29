@@ -1,0 +1,10 @@
+.header {
+    background-image: url('/imgs/bg.png.png');
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 70vh;
+    /* align-items: center; */
+    display: flex;
+    /* position: relative; */
+} 
