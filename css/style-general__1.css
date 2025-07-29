@@ -1,0 +1,50 @@
+.general__1 {
+    margin: 7em auto;
+}
+
+.general__1--title {
+    font-size: 3em;
+    color: #05294A;
+    text-align: center;
+}
+
+.general__content {
+    display: flex;
+}
+
+.genera__1--txt,
+.genera__2--txt,
+.genera__3--txt {
+    padding: 8em 6em;
+}
+
+.genera__1--txt {
+    background-image: url('/imgs/r1.png.png');
+}
+.genera__2--txt {
+    background-image: url('/imgs/r2.png.png');
+}
+.genera__3--txt {
+    background-image: url('/imgs/r3.png.png');
+}
+.genera__1--txt,
+.genera__2--txt,
+.genera__3--txt {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+.general__title{
+    color: #FFFFFC;
+    font-size: 1.3em;
+}
+.general__1--paragraf {
+    color: #FFFFFC;
+    text-align: center;
+    font-size: 0.7em;
+}
