@@ -1,0 +1,36 @@
+.menu {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1;
+    margin-top: 2em;
+}
+
+#menu {
+    display: none;
+}
+
+.menu__logo {
+    color: #FFFFFC;
+    font-size: 1.5em;
+    font-weight: 800;
+}
+
+.menu__icono {
+    width: 25px;
+    display: none;
+}
+
+.navbar__list {
+    display: flex;
+    gap: 5em;
+}
+
+.item__link {
+    color: #FFFFFC;
+    font-size: 1.3em;
+}
