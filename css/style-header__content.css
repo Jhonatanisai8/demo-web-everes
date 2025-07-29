@@ -1,0 +1,21 @@
+.header__content {
+    text-align: center;
+    padding: 10em;
+}
+
+.header__title {
+    font-size: 5em;
+}
+
+.header__title,
+.paragraf {
+    color: #FFFFFC;
+}
+
+.btn__1{
+    margin-top: 2em;
+    color: #FFFFFC;
+    border: .2em solid #FFFFFC;
+    padding: 0.6em;
+    display: inline-block;
+}
